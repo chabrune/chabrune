@@ -1,8 +1,8 @@
-# <div align="center"> <img src="https://img.shields.io/badge/42-Mulhouse-2ea44f?style=for-the-badge&logo=42"/> | Spécialisation Cybersécurité 🛡️</div>
+# <div align="center"> 42 | Spécialisation Cybersécurité 🛡️</div>
 
 
 <p align="center">
-  <img src="https://ci3.googleusercontent.com/mail-sig/AIorK4xSZSWO9WWDOIu9kJEQ-YjvdrPfgn3HIZhzQoPTo0I9XqtVFC0XLoSxL-oqvfMKJeEXwQUVVdo" alt="42 Banner" width="500"/>
+  <img src="https://d2xgp34eq2b9wx.cloudfront.net/42-mulhouse/brand_logo/logo-42-mulhouse.png" alt="42 Banner" width="500"/>
 </p>
 
 
@@ -85,14 +85,8 @@
 
 <p align="center">
   <a href="https://github.com/chabrune">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chabrune&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chabrune&theme=radical" alt="chabrune's streak"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabrune&layout=compact&theme=radical"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/chabrune">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chabrune&theme=radical" alt="chabrune's streak"/>
   </a>
 </p>
 
