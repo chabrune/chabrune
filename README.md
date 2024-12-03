@@ -41,7 +41,7 @@
 | <img src="https://img.shields.io/badge/Philosophers-C-blue?style=flat-square&logo=42"> | Problème des philosophes | ✅ |
 | <img src="https://img.shields.io/badge/Cub3D-C-blue?style=flat-square&logo=42"> | Raycasting 3D | ✅ |
 | <img src="https://img.shields.io/badge/CPP-C++-red?style=flat-square&logo=cplusplus"> | Programmation C++ avancée | ✅ |
-| <img src="https://img.shields.io/badge/Webserv-C++-red?style=flat-square&logo=nginx"> | Serveur HTTP from scratch | ✅ |
+| <img src="https://img.shields.io/badge/Webserv-C++-red?style=flat-square&logo=nginx"> | Serveur HTTP  | ✅ |
 | <img src="https://img.shields.io/badge/Inception-Docker-blue?style=flat-square&logo=docker"> | Containerisation Docker | ✅ |
 | <img src="https://img.shields.io/badge/LibASM-ASM-lightgrey?style=flat-square&logo=42"> | Assembly x86_64 | 🔄 |
 
