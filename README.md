@@ -19,6 +19,8 @@
 | <img src="https://img.shields.io/badge/Override-PWN-purple?style=flat-square&logo=42"> | Binary exploitation avancée | 🔄 |
 | <img src="https://img.shields.io/badge/Born2beRoot-System-green?style=flat-square&logo=debian"> | Configuration serveur & sécurisation | ✅ |
 | <img src="https://img.shields.io/badge/NetPractice-Network-orange?style=flat-square&logo=cisco"> | Configuration réseau TCP/IP | ✅ |
+| <img src="https://img.shields.io/badge/Transcendence-Cluster_Vault-blue?style=flat-square&logo=vault"> | Sécurité et gestion des secrets HashiCorp Vault | ✅ |
+
 
 
 
@@ -44,10 +46,7 @@
 | <img src="https://img.shields.io/badge/LibASM-ASM-lightgrey?style=flat-square&logo=42"> | Assembly x86_64 | 🔄 |
 
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Stack Technique
-
-
+## Stack Technique
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -55,7 +54,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-FF4785?style=for-the-badge&logo=webpack&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
 
 
