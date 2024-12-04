@@ -11,7 +11,6 @@
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Projets Sécurité & Système
 
-
 | Projet | Description | Status |
 |:--------:|-------------|:---------:|
 | <a href="https://github.com/chabrune/snowcrash"><img src="https://img.shields.io/badge/Snow_Crash-Security-blue?style=flat-square&logo=42"></a> | Sécurité informatique & pentesting | ✅ |
@@ -20,7 +19,6 @@
 | <a href="https://github.com/chabrune/ft_transcendence"><img src="https://img.shields.io/badge/Transcendence-Cluster_Vault-blue?style=flat-square&logo=vault"></a> | Sécurité et gestion des secrets HashiCorp Vault | ✅ |
 | <a href="https://github.com/chabrune/rainfall"><img src="https://img.shields.io/badge/Rainfall-RE-red?style=flat-square&logo=42"></a> | Reverse engineering & exploitation | 🔄 |
 | <img src="https://img.shields.io/badge/Override-PWN-purple?style=flat-square&logo=42"> | Binary exploitation avancée | 🔄 |
-
 
 
 ### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> Projets Développement
@@ -80,14 +78,12 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px"> Stats GitHub
 
 
-
 <p align="center">
   <a href="https://github.com/chabrune">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chabrune&theme=radical&exclude_days=sat,sun" alt="chabrune's streak"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabrune&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chabrune&theme=tokyonight&exclude_days=sat,sun" alt="chabrune's streak"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabrune&layout=compact&theme=tokyonight"/>
   </a>
 </p>
-
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30px" height="30px"> Contact
