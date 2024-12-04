@@ -14,36 +14,34 @@
 
 | Projet | Description | Status |
 |:--------:|-------------|:---------:|
-| <img src="https://img.shields.io/badge/Snow_Crash-Security-blue?style=flat-square&logo=42"> | Sécurité informatique & pentesting | ✅ |
-| <img src="https://img.shields.io/badge/Rainfall-RE-red?style=flat-square&logo=42"> | Reverse engineering & exploitation | 🔄 |
+| <a href="https://github.com/chabrune/snowcrash"><img src="https://img.shields.io/badge/Snow_Crash-Security-blue?style=flat-square&logo=42"></a> | Sécurité informatique & pentesting | ✅ |
+| <a href="https://github.com/chabrune/Born2BeRoot"><img src="https://img.shields.io/badge/Born2beRoot-System-green?style=flat-square&logo=debian"></a> | Configuration serveur & sécurisation | ✅ |
+| <a href="https://github.com/chabrune/NetPractice"><img src="https://img.shields.io/badge/NetPractice-Network-orange?style=flat-square&logo=cisco"></a> | Configuration réseau TCP/IP | ✅ |
+| <a href="https://github.com/chabrune/ft_transcendence"><img src="https://img.shields.io/badge/Transcendence-Cluster_Vault-blue?style=flat-square&logo=vault"></a> | Sécurité et gestion des secrets HashiCorp Vault | ✅ |
+| <a href="https://github.com/chabrune/rainfall"><img src="https://img.shields.io/badge/Rainfall-RE-red?style=flat-square&logo=42"></a> | Reverse engineering & exploitation | 🔄 |
 | <img src="https://img.shields.io/badge/Override-PWN-purple?style=flat-square&logo=42"> | Binary exploitation avancée | 🔄 |
-| <img src="https://img.shields.io/badge/Born2beRoot-System-green?style=flat-square&logo=debian"> | Configuration serveur & sécurisation | ✅ |
-| <img src="https://img.shields.io/badge/NetPractice-Network-orange?style=flat-square&logo=cisco"> | Configuration réseau TCP/IP | ✅ |
-| <img src="https://img.shields.io/badge/Transcendence-Cluster_Vault-blue?style=flat-square&logo=vault"> | Sécurité et gestion des secrets HashiCorp Vault | ✅ |
-
 
 
 
 ### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> Projets Développement
 
-
-
 | Projet | Description | Status |
 |:--------:|-------------|:---------:|
-| <img src="https://img.shields.io/badge/Libft-C-blue?style=flat-square&logo=42"> | Bibliothèque C personnelle | ✅ |
-| <img src="https://img.shields.io/badge/Printf-C-blue?style=flat-square&logo=42"> | Recréation de printf | ✅ |
-| <img src="https://img.shields.io/badge/GNL-C-blue?style=flat-square&logo=42"> | Lecture de fichier ligne par ligne | ✅ |
-| <img src="https://img.shields.io/badge/Pipex-C-blue?style=flat-square&logo=42"> | Reproduction du pipe shell | ✅ |
-| <img src="https://img.shields.io/badge/Minitalk-C-blue?style=flat-square&logo=42"> | Communication entre processus | ✅ |
-| <img src="https://img.shields.io/badge/So_long-C-blue?style=flat-square&logo=42"> | Petit jeu 2D | ✅ |
-| <img src="https://img.shields.io/badge/Push_swap-C-blue?style=flat-square&logo=42"> | Algorithme de tri | ✅ |
-| <img src="https://img.shields.io/badge/Minishell-C-blue?style=flat-square&logo=42"> | Shell UNIX personnalisé | ✅ |
-| <img src="https://img.shields.io/badge/Philosophers-C-blue?style=flat-square&logo=42"> | Problème des philosophes | ✅ |
-| <img src="https://img.shields.io/badge/Cub3D-C-blue?style=flat-square&logo=42"> | Raycasting 3D | ✅ |
-| <img src="https://img.shields.io/badge/CPP-C++-red?style=flat-square&logo=cplusplus"> | Programmation C++ avancée | ✅ |
-| <img src="https://img.shields.io/badge/Webserv-C++-red?style=flat-square&logo=nginx"> | Serveur HTTP  | ✅ |
-| <img src="https://img.shields.io/badge/Inception-Docker-blue?style=flat-square&logo=docker"> | Containerisation Docker | ✅ |
-| <img src="https://img.shields.io/badge/LibASM-ASM-lightgrey?style=flat-square&logo=42"> | Assembly x86_64 | 🔄 |
+| <a href="https://github.com/chabrune/libft"><img src="https://img.shields.io/badge/Libft-C-blue?style=flat-square&logo=42"></a> | Bibliothèque C | ✅ |
+| <a href="https://github.com/chabrune/printf"><img src="https://img.shields.io/badge/Printf-C-blue?style=flat-square&logo=42"></a> | Recréation de printf | ✅ |
+| <a href="https://github.com/chabrune/get_next_line"><img src="https://img.shields.io/badge/GNL-C-blue?style=flat-square&logo=42"></a> | Lecture de fichier ligne par ligne | ✅ |
+| <a href="https://github.com/chabrune/pipex"><img src="https://img.shields.io/badge/Pipex-C-blue?style=flat-square&logo=42"></a> | Reproduction du pipe shell | ✅ |
+| <a href="https://github.com/chabrune/minitalk"><img src="https://img.shields.io/badge/Minitalk-C-blue?style=flat-square&logo=42"></a> | Communication entre processus | ✅ |
+| <a href="https://github.com/chabrune/so_long"><img src="https://img.shields.io/badge/So_long-C-blue?style=flat-square&logo=42"></a> | Jeu 2D | ✅ |
+| <a href="https://github.com/chabrune/push_swap"><img src="https://img.shields.io/badge/Push_swap-C-blue?style=flat-square&logo=42"></a> | Algorithme de tri | ✅ |
+| <a href="https://github.com/chabrune/minishell"><img src="https://img.shields.io/badge/Minishell-C-blue?style=flat-square&logo=42"></a> | Shell UNIX personnalisé | ✅ |
+| <a href="https://github.com/chabrune/Philosophers"><img src="https://img.shields.io/badge/Philosophers-C-blue?style=flat-square&logo=42"></a> | Problème des philosophes | ✅ |
+| <a href="https://github.com/chabrune/cub3d"><img src="https://img.shields.io/badge/Cub3D-C-blue?style=flat-square&logo=42"></a> | Raycasting 3D | ✅ |
+| <a href="https://github.com/chabrune/CPP"><img src="https://img.shields.io/badge/CPP-C++-red?style=flat-square&logo=cplusplus"></a> | Programmation C++ avancée | ✅ |
+| <a href="https://github.com/chabrune/Webserv"><img src="https://img.shields.io/badge/Webserv-C++-red?style=flat-square&logo=nginx"></a> | Serveur HTTP  | ✅ |
+| <a href="https://github.com/chabrune/Inception"><img src="https://img.shields.io/badge/Inception-Docker-blue?style=flat-square&logo=docker"></a> | Containerisation Docker | ✅ |
+| <a href="https://github.com/chabrune/libasm"><img src="https://img.shields.io/badge/LibASM-ASM-lightgrey?style=flat-square&logo=42"></a> | Assembly x86_64 | 🔄 |
+
 
 
 ## Stack Technique
@@ -85,7 +83,7 @@
 
 <p align="center">
   <a href="https://github.com/chabrune">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chabrune&theme=radical" alt="chabrune's streak"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chabrune&theme=radical&exclude_days=sat,sun" alt="chabrune's streak"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabrune&layout=compact&theme=radical"/>
   </a>
 </p>
