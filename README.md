@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/chabrune">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chabrune&theme=tokyonight&exclude_days=sat,sun" alt="chabrune's streak"/>
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=chabrune&theme=tokyonight&exclude_days=Sun%2CSat"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabrune&layout=compact&theme=tokyonight"/>
   </a>
 </p>
