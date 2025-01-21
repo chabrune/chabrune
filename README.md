@@ -18,7 +18,7 @@
 | <a href="https://github.com/chabrune/NetPractice"><img src="https://img.shields.io/badge/NetPractice-Network-orange?style=flat-square&logo=cisco"></a> | Configuration réseau TCP/IP | ✅ |
 | <a href="https://github.com/chabrune/ft_transcendence"><img src="https://img.shields.io/badge/Transcendence-Cluster_Vault-blue?style=flat-square&logo=vault"></a> | Sécurité et gestion des secrets HashiCorp Vault | ✅ |
 | <a href="https://github.com/chabrune/rainfall"><img src="https://img.shields.io/badge/Rainfall-RE-red?style=flat-square&logo=42"></a> | Reverse engineering & exploitation | 🔄 |
-| <img src="https://img.shields.io/badge/Override-PWN-purple?style=flat-square&logo=42"> | Binary exploitation avancée | 🔄 |
+| <a href="https://github.com/chabrune/OverRide"><img src="https://img.shields.io/badge/Override-PWN-purple?style=flat-square&logo=42"></a> | Binary exploitation avancée | 🔄 |
 
 
 ### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> Projets Développement
