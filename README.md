@@ -43,6 +43,15 @@
 
 
 
+## <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXJzq8w/giphy.gif" width="25"> Projets à Venir
+
+| Projet | Description | Status |
+|:--------:|-------------|:---------:|
+| <a href="#"><img src="https://img.shields.io/badge/Cloud_1-Cloud_Automation-blue?style=flat-square&logo=ansible"></a> | Automatisation du déploiement d'une infrastructure cloud avec Ansible et Docker. | 🔜 |
+| <a href="#"><img src="https://img.shields.io/badge/Inception_of_Things-IoT_&_Kubernetes-green?style=flat-square&logo=kubernetes"></a> | Configuration de clusters Kubernetes avec K3s, K3d et Argo CD. | 🔜 |
+
+---
+
 ## Stack Technique
 
 <div align="center">
