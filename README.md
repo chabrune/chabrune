@@ -75,7 +75,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Security-System_&_RE-red?style=for-the-badge&logo=hackaday"/>
-  <img src="https://img.shields.io/badge/Network-Administration-orange?style=for-the-badge&logo=cisco"/>
+  <img src="https://img.shields.io/badge/Network-Configuration_&_Management-orange?style=for-the-badge&logo=cisco"/>
   <img src="https://img.shields.io/badge/Linux-Administration-yellow?style=for-the-badge&logo=linux"/>
   <br/>
   <img src="https://img.shields.io/badge/Docker-Containerisation-blue?style=for-the-badge&logo=docker"/>
